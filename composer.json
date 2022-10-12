@@ -1,5 +1,5 @@
 {
-  "name": "laravelista/ekko",
+  "name": "daltcore/ekko",
   "description": "Framework agnostic PHP package for marking navigation items active.",
   "license": "MIT",
   "keywords": ["php", "function", "active", "bootstrap", "helper", "laravel"],
